@@ -22,3 +22,7 @@ Labs:
 4. [Lab 3b: Unsupervised Learning: clustering](https://github.com/ShamitaGoyal/data-science/blob/main/lab3b.ipynb)
 5. [Lab 4: real news or fake news NLP](https://github.com/ShamitaGoyal/data-science/blob/main/lab4.ipynb)
 6. [Final Project: Crimes in India 2001-2013 Data Analysis](https://github.com/ShamitaGoyal/data-science/blob/main/lab-final.ipynb)
+
+
+------------
+Course: CIS 9 — Intro to Data Science 
