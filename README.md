@@ -1,6 +1,6 @@
 # Final Data Science Projects/Notebooks/Notes
 
-Lectures:
+<u>Lectures:</u>
 1. [Review Python Basics & Intro to Jupyter Notebook](https://github.com/ShamitaGoyal/data-science/blob/main/1-ReviewPython.ipynb)
 2. [Numpy, Basic Statistics](https://github.com/ShamitaGoyal/data-science/blob/main/2-NumpySolution%20(1).ipynb)
 3. [Pandas, Data Analysis, Data Cleaning](https://github.com/ShamitaGoyal/data-science/blob/main/3-PandasSolution%20(1).ipynb)
@@ -14,7 +14,8 @@ Lectures:
 6. [Data — Where to get data, data imbalance, & data bias](https://github.com/ShamitaGoyal/data-science/blob/main/11-data.ipynb)
 
 
-Labs:
+
+<u>Labs:</u>
 1. [Lab 1: Data analysis with numpy, review Python](https://github.com/ShamitaGoyal/data-science/blob/main/lab1.ipynb)
 2. [Lab 2: Pandas & Matplotlib](https://github.com/ShamitaGoyal/data-science/blob/main/lab2.ipynb)
 3. [Lab 3a: Regression and Classification](https://github.com/ShamitaGoyal/data-science/blob/main/lab3a.ipynb)
